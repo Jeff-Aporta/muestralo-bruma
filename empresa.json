@@ -1,0 +1,7 @@
+{
+  "app": "bruma",
+  "nombre": "Bruma",
+  "api": "https://muestralo-api.jeffaporta.workers.dev",
+  "dominio": "https://jeff-aporta.github.io/muestralo-bruma",
+  "idioma": "es"
+}
